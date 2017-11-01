@@ -16,7 +16,7 @@ You absolutely can! _Monorale_ is just an easy way â€” especially for web apps â
 
 #### How is this different from _Rawline_?
 
-[Rawline: Raleway With "Fixed" Numerals](https://github.com/h-ibaldo/Raleway_Fixed_Numerals/) still uses Raleway's criss-crossing w. I also noticed all text was being shifted-down, especially SVGs.
+[Rawline: Raleway With "Fixed" Numerals](https://github.com/h-ibaldo/Raleway_Fixed_Numerals/) still uses Raleway's criss-crossing "w". I also noticed all text was being shifted-down, especially SVGs.
 
 ---
 
