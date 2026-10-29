@@ -4,15 +4,16 @@
 
 ![monorale-raleway](https://user-images.githubusercontent.com/12996081/32284539-f112f3da-befd-11e7-9c48-07789df31b78.png)
 
-_Monorale_ is built off [v4020](https://github.com/impallari/Raleway/tree/master/fonts/v4020) of Raleway.
+_Monorale_ is built off [Raleway](https://github.com/theleagueof/raleway).
 
-Currently available as `otf` and `woff` files.
+- **Static:** `otf` and `woff`, built off [v4.020](https://github.com/impallari/Raleway/tree/master/fonts/v4020). Load with `monorale.css`.
+- **Variable:** `ttf` and `woff2` (weights 100-900), built off [v4.026](https://github.com/google/fonts/tree/e16e28b2a73398cbc960f5306f961c1276cc29fc/ofl/raleway). Load with `monorale-variable.css`.
 
 ---
 
 #### Why can't I just use _Raleway_ with its alternate glyphs?
 
-You absolutely can! _Monorale_ is just an easy way — especially for web apps — to host a `woff` file with Raleway's aligned numbers and alternate "w" as the default.
+You absolutely can! _Monorale_ is just an easy way — especially for web apps — to host a `woff`/`woff2` file with Raleway's aligned numbers and alternate "w" as the default.
 
 #### How is this different from _Rawline_?
 
