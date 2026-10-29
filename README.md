@@ -15,10 +15,6 @@ _Monorale_ is built off [_Raleway_](https://github.com/theleagueof/raleway).
 
 You absolutely can! _Monorale_ is just an easy way — especially for web apps — to host a `woff`/`woff2` file with _Raleway_'s aligned numbers and alternate "w" as the default.
 
-#### How is this different from _Rawline_?
-
-[Rawline: Raleway With "Fixed" Numerals](https://github.com/h-ibaldo/Raleway_Fixed_Numerals/) still uses _Raleway_'s criss-crossing "w". I also noticed all text was being shifted-down, especially SVGs.
-
 ---
 
 Special thanks to [@EmmaSimon](https://github.com/EmmaSimon) for the name.
