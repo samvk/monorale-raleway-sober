@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Monorale;
+    font-weight: 100 900;
+    font-style: normal;
+    src: url('https://cdn.rawgit.com/samvk/monorale-raleway-sober/master/woff2/Monorale-VF.woff2') format('woff2');
+}
+@font-face {
+    font-family: Monorale;
+    font-weight: 100 900;
+    font-style: italic;
+    src: url('https://cdn.rawgit.com/samvk/monorale-raleway-sober/master/woff2/Monorale-Italic-VF.woff2') format('woff2');
+}
