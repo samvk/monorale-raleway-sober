@@ -6,8 +6,8 @@
 
 _Monorale_ is built off [_Raleway_](https://github.com/theleagueof/raleway).
 
+- **Variable (recommended):** `ttf` and `woff2` (weights 100-900), built off [v4.026](https://github.com/google/fonts/tree/e16e28b2a73398cbc960f5306f961c1276cc29fc/ofl/raleway). Load with `monorale-variable.css`.
 - **Static:** `otf` and `woff`, built off [v4.020](https://github.com/impallari/Raleway/tree/master/fonts/v4020). Load with `monorale.css`.
-- **Variable:** `ttf` and `woff2` (weights 100-900), built off [v4.026](https://github.com/google/fonts/tree/e16e28b2a73398cbc960f5306f961c1276cc29fc/ofl/raleway). Load with `monorale-variable.css`.
 
 ---
 
